@@ -26,7 +26,7 @@ html {
 
 .card__descriptionIcon {font-size: 32px; margin-bottom: 10px;}
 
-.card__descriptionText {
+.card__descriptionText, h1 {
     color: #57727C;
     font-size: 12px;
     text-align: center;
